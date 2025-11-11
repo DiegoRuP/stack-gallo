@@ -34,43 +34,43 @@ Este es un proyecto vivo, hecho **por y para estudiantes**. Explora las seccione
 
 Aquí encontrarás todo lo que necesitas, organizado por las etapas y necesidades de un proyecto de desarrollo.
 
-* [🎓 **Planes de estudiante y descuentos**](#)
+* [**Planes de estudiante y descuentos** 🎓 ](#)
 
   *Aprovecha los beneficios exclusivos que tienes como estudiante.*
 
-* [📋 **Planificación y gestión de proyectos**](#)
+* [**Planificación y gestión de proyectos** 📋 ](#)
 
   *Herramientas para tomar apuntes, organizar tus ideas y tu equipo.*
   
-* [🎨 **Diseño y prototipado**](#)
+* [**Diseño y prototipado** 🎨](#)
 
   *Crea interfaces y experiencias de usuario antes de escribir código.*
   
-* [💻 **Entornos de desarrollo**](#)
+* [**Entornos de desarrollo** 💻 ](#)
   
   *Configura tu máquina con los mejores IDEs, editores y terminales.*
   
-* [🗃️ **Bases de datos y backend**](#)
+* [**Bases de datos y backend** 🗃️ ](#)
   
   *Todo sobre almacenamiento, gestión de datos y lógica de servidor.*
 
-* [🚀 **Despliegue y alojamiento**](#)
+* [**Despliegue y alojamiento** 🚀 ](#)
   
   *Lleva tus proyectos del local a la web (VPS, PaaS, Hosting).*
 
-* [📄 **Documentación y colaboración**](#)
+* [**Documentación y colaboración** 📄 ](#)
   
   *Escribe mejores READMEs, wikis y trabaja en equipo con Git.*
 
-* [🔧 **Recomendaciones personales**](#)
+* [**Recomendaciones personales** 🔧 ](#)
   
   *Recomendaciones personales de un egresado*
 
-* [📚 **Complementar aprendizaje**](#)
+* [**Complementar aprendizaje** 📚 ](#)
   
   *Cursos, clubes, tutoriales y plataformas para ir más allá de la clase.*
 
-* [🛟 **Apoyo general**](#)
+* [**Apoyo general** 🛟 ](#)
   
   *¿Hay algo en lo que necesites ayuda? aquí puedes acudir.*
 
