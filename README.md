@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/94f91368-3f45-45bf-b09e-b9bbbcc4388f" alt="Banner de Stack Gallo - Recursos para Gallos UAA">
-</p>
-
 <h1 align="center">
   Bienvenido a Stack-Gallo 🐓
 </h1>
