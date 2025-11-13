@@ -30,7 +30,7 @@ Este es un proyecto vivo, hecho **por y para estudiantes**. Explora las seccione
 
 Aquí encontrarás todo lo que necesitas, organizado por las etapas y necesidades de un proyecto de desarrollo.
 
-* [**Planes de estudiante y descuentos** 🎓 ](#)
+* [**Planes de estudiante y descuentos** 🎓 ](#planes-estudiante.md)
 
   *Aprovecha los beneficios exclusivos que tienes como estudiante.*
 
