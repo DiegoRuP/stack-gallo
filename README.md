@@ -1,5 +1,5 @@
 <h1 align="center">
-  Bienvenido a Stack-Gallo 🐓
+  Bienvenido a Stack-Gallo
 </h1>
 
 <p align="center">
@@ -30,49 +30,29 @@ Este es un proyecto vivo, hecho **por y para estudiantes**. Explora las seccione
 
 Aquí encontrarás todo lo que necesitas, organizado por las etapas y necesidades de un proyecto de desarrollo.
 
-* [**Planes de estudiante y descuentos** 🎓 ](planes-estudiante.md)
+* [**Planes de estudiante y descuentos**](planes-estudiante.html)
 
   *Aprovecha los beneficios exclusivos que tienes como estudiante.*
 
-* [**Planificación y gestión de proyectos** 📋 ](#)
+* [**Herramientas útiles para proyectos**](herramientas-utiles.html)
 
-  *Herramientas para tomar apuntes, organizar tus ideas y tu equipo.*
-  
-* [**Diseño y prototipado** 🎨](#)
+  *El stack completo: planificación, diseño, backend, despliegue y más.*
 
-  *Crea interfaces y experiencias de usuario antes de escribir código.*
-  
-* [**Entornos de desarrollo** 💻 ](#)
-  
-  *Configura tu máquina con los mejores IDEs, editores y terminales.*
-  
-* [**Bases de datos y backend** 🗃️ ](#)
-  
-  *Todo sobre almacenamiento, gestión de datos y lógica de servidor.*
-
-* [**Despliegue y alojamiento** 🚀 ](#)
-  
-  *Lleva tus proyectos del local a la web (VPS, PaaS, Hosting).*
-
-* [**Documentación y colaboración** 📄 ](#)
-  
-  *Escribe mejores READMEs, wikis y trabaja en equipo con Git.*
-
-* [**Recomendaciones personales** 🔧 ](#)
+* [**Recomendaciones de un egresado**](recomendaciones-egresado.html)
   
   *Recomendaciones personales de un egresado*
 
-* [**Complementar aprendizaje** 📚 ](#)
+* [**Complementar aprendizaje**](complementar-aprendizaje.html)
   
-  *Cursos, clubes, tutoriales y plataformas para ir más allá de la clase.*
+  *Cursos, clubes y plataformas para complementar.*
 
-* [**Apoyo general** 🛟 ](#)
+* [**Apoyo general**](apoyo-universitario.html)
   
   *¿Hay algo en lo que necesites ayuda? aquí puedes acudir.*
 
 ---
 
-## 🤝 ¡Únete a la Comunidad!
+## ¡Únete a la Comunidad!
 
 ¿Conoces una herramienta útil que no está en la lista? ¿Un descuento nuevo? ¿Algún aporte?
 
