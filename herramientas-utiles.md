@@ -18,21 +18,27 @@ Navega por las categorías para encontrar el software específico que necesitas 
 ## Índice de Herramientas
 
 * [**Planificación y gestión de proyectos**](./toolsPages/planificacion.html)
+  
     * Herramientas para tomar apuntes, organizar tus ideas y tu equipo.
 
 * [**Diseño y prototipado**](./toolsPages/frontend.html)
+  
     * Crea interfaces y experiencias de usuario antes de escribir código.
 
 * [**Entornos de desarrollo**](./toolsPages/entornos.html)
+  
     * Configura tu máquina con los mejores IDEs, editores y terminales.
 
 * [**Bases de datos y backend**](./toolsPages/backend.html)
+  
     * Todo sobre almacenamiento, gestión de datos y lógica de servidor.
 
 * [**Despliegue y alojamiento**](./toolsPages/despliegue.html)
+  
     * Lleva tus proyectos del local a la web (VPS, PaaS, Hosting).
 
 * [**Documentación y colaboración**](./toolsPages/documentacion.html)
+  
     * Escribe mejores READMEs, wikis y trabaja en equipo con Git.
 
 ---

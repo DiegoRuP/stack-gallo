@@ -66,6 +66,24 @@ Es el "sucesor espiritual" de Heroku. Es una plataforma moderna que ha ganado mu
 
 ---
 
+## Contenedores y Orquestación
+
+Esta es una recomendación que va un paso más allá, pero que es fundamental en la industria moderna. Vale mucho la pena aprenderlo.
+
+### Docker
+Es la plataforma estándar para "empaquetar" nuestra aplicación (nuestro backend, nuestra base de datos) con *todas* sus dependencias y librerías en una "caja" aislada llamada contenedor.
+
+* **Cómo nos sirve:** Resuelve el clásico problema de "en mi máquina sí funciona". Con Docker, nos aseguramos de que nuestra aplicación correrá exactamente igual en nuestra laptop, en la de un compañero o en el servidor de producción en DigitalOcean.
+* **Enlace:** [https://www.docker.com/](https://www.docker.com/)
+
+### Kubernetes (K8s)
+Si Docker es el contenedor, Kubernetes es el sistema que gestiona (orquesta) miles de esos contenedores.
+
+* **Cómo nos sirve:** Es un tema avanzado, pero es lo que usan las grandes empresas para automatizar el despliegue, el escalado (crear más copias de nuestra app si hay mucho tráfico) y la gestión de aplicaciones. Si logras aprender las bases de K8s, tendrás un plus enorme al egresar.
+* **Enlace:** [https://kubernetes.io/](https://kubernetes.io/)
+
+---
+
 ## Hosting estático y Jamstack
 
 Esta es la opción para nuestros proyectos de **frontend** (HTML/CSS, React, Vue, Svelte) y sitios estáticos (como este mismo). Son increíblemente rápidos, escalables y, por lo general, tienen capas gratuitas muy generosas.
