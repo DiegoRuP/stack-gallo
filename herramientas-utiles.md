@@ -20,7 +20,7 @@ Navega por las categorías para encontrar el software específico que necesitas 
 * [**Planificación y gestión de proyectos**](./toolsPages/planificacion.html)
     * Herramientas para tomar apuntes, organizar tus ideas y tu equipo.
 
-* [**Diseño y prototipado**](./toolsPages/diseno.html)
+* [**Diseño y prototipado**](./toolsPages/frontend.html)
     * Crea interfaces y experiencias de usuario antes de escribir código.
 
 * [**Entornos de desarrollo**](./toolsPages/entornos.html)
