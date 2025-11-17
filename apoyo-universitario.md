@@ -21,8 +21,6 @@ Esta sección es para agrupar esos enlaces importantes que nos ayudan a navegar 
 
 Para no perdernos el primer día de clases (o en quinto semestre).
 
-**Instrucción:** Para que los mapas funcionen, primero crea una carpeta `assets` en tu repositorio, y dentro de ella otra carpeta llamada `mapas`. Sube tus imágenes (`mapa-norte.jpg`, `mapa-sur.jpg`) a esa carpeta.
-
 ### Campus Norte
 *(Haz clic en la imagen para ver en alta resolución)*
 <a href="./assets/mapaUAA.jpg">
