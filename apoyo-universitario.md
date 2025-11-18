@@ -55,6 +55,9 @@ Enlaces directos a los programas de apoyo académico y profesional de la UAA.
 
 ### Apoyo Académico
 * [Programa de Tutorías (Buscar tutor / Ser tutor)](https://esiima.uaa.mx/exsiima/xwgtp_menu.jsp)
+<a href="./assets/infografiaTutoria.jpeg">
+  <img src="./assets/infografiaTutoria.jpeg" alt="Infografía Tutoría de Pares" width="600">
+</a>
 
 ---
 
