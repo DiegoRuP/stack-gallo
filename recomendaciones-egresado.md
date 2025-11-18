@@ -41,7 +41,7 @@ Recomiendo mucho compartir lo que sabes y llevarte bien con todos. El ambiente u
 
 ## 4. Considera la movilidad estudiantil (Intercambio)
 
-Este es uno de mis consejos más importantes. Aprovecha la oportunidad de irte de movilidad, sobre todo en 7mo semestre. Es un semestre en el que, académicamente, no te "resagas" mucho.
+Este es uno de mis consejos más importantes. Aprovecha la oportunidad de irte de movilidad, sobre todo en 7mo semestre. Es un semestre en el que, académicamente, no te "rezagas" mucho.
 
 Te permite salir de tu zona de confort y aprenderás muchísimo. De verdad, en 6 meses se aprende una inmensidad de cosas en lo laboral, estudiantil y personal.
 
